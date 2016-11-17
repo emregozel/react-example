@@ -9,6 +9,9 @@ module.exports = {
         port: 3000
     },
     module: {
+      preLoaders: [
+      { test: /\.json$/, exclude: /node_modules/, loader: 'json'},
+  ],
         loaders : [
             {
                 test: /\.js$/,

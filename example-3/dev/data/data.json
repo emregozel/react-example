@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "isim": "Raymond",
+      "soyad": "Wright",
+      "email": "rwright0@businessinsider.com",
+      "gender": "Male"
+    }, {
+      "isim": "Henry",
+      "soyad": "Gilbert",
+      "email": "hgilbert1@discovery.com",
+      "gender": "Male"
+    }, {
+      "isim": "Carolyn",
+      "soyad": "Hanson",
+      "email": "chanson2@xrea.com",
+      "gender": "Female"
+    }, {
+      "isim": "Steven",
+      "soyad": "Mccoy",
+      "email": "smccoy3@reverbnation.com",
+      "gender": "Male"
+    }, {
+      "isim": "Julia",
+      "soyad": "Collins",
+      "email": "jcollins4@indiatimes.com",
+      "gender": "Female"
+    }, {
+      "isim": "Joe",
+      "soyad": "Gardner",
+      "email": "jgardner5@japanpost.jp",
+      "gender": "Male"
+    }
+  ]
+}
